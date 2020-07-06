@@ -1,5 +1,13 @@
 # Survey123 Field Data Plugin
 
+## The Survey123 plugin is now obsolete
+
+![Try the Tabular CSV plugin](https://i.imgflip.com/47f3ro.jpg)
+
+Please use the [Tabular CSV Plugin](https://github.com/AquaticInformatics/tabular-field-data-plugin#tabular-csv-field-data-plugin) instead, which can read CSVs intended for this plugin, plus many more.
+
+## Maintained for archive purposes only
+
 [![Build status](https://ci.appveyor.com/api/projects/status/p7dj87vw06sv8lq3/branch/master?svg=true)](https://ci.appveyor.com/project/SystemsAdministrator/survey123-field-data-plugin/branch/master)
 
 An AQTS field data plugin for AQTS 2018.4-or-newer systems, which can read [Survey123](https://survey123.arcgis.com/) survey results exported to CSV.
